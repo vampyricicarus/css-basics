@@ -1,0 +1,1 @@
+Using <a> links and <input>s I can link different sheets together to create an interactive experience for the user on the website. For the css sheets, I used elements such as classes and ids to edit the appearance and style of each element in the html sheets.
